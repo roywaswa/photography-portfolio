@@ -11,7 +11,7 @@ export default function Home() {
         <h4 className="text-4xl text-center font-medium">Coming Soon</h4>
       </div>
       <div className="socials flex flex-row justify-center content-center self-center gap-10">
-        <Link href={"https://www.instagram.com/_.waswa._"}><div className="instagram">
+        <Link href={"https://www.instagram.com/_.waswa._"} target="_blank"><div className="instagram">
           <FontAwesomeIcon className="w-8 h-8 text-foreground" icon={faInstagram}/>
         </div></Link>
       </div>
